@@ -8,7 +8,7 @@ class SimpleCarSdk {
     private lateinit var apiCode: String
     private lateinit var smartCarCode: String
     private lateinit var uid: String
-    private val version : Int = 10
+    private val version : Int = 10//asd
 
     private lateinit var service : ApiService
     constructor(apiCode: String, smartCarCode : String, uid : String){
